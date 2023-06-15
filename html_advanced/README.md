@@ -1,8 +1,3 @@
-# holbertonschool-web_front_end
-
-
-This repository contrains projects involving html
-
 # Advanced HTML
 
 In this project, you will learn how to use HTML tags to structure a web page.
