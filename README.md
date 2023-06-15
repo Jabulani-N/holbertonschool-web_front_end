@@ -1,7 +1,7 @@
 # holbertonschool-web_front_end
 
 
-This repository contrains projects involving html
+This repository contains projects involving html.
 
 # Advanced HTML
 
