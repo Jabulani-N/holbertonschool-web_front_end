@@ -4,13 +4,13 @@
 
 inputArg=$@
 
-echo -e '\ngitter: Adding all'
+:: gitter: Adding all
 git add .
 
-echo -e '\ngitter: Committing'
+:: gitter: Committing
 git commit -m  $inputArg
 
-echo -e '\ngitter: Pushing'
+:: gitter: Pushing
 git push
 
-echo -e '\ngitter: DONE\n'
+:: gitter: DONE
