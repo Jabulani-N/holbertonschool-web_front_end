@@ -2,6 +2,10 @@
 
 In this project, you will learn how to use HTML tags to structure a web page.
 
+## Sources
+
+easy-to-read list of tags and such: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a
+
 No CSS, no styling - don’t worry, the final page will be “ugly” it’s normal, it’s not the purpose of this project.
 
 note to self: reference Ben's work for number 27
@@ -19,7 +23,7 @@ items within a `<segment>items</segment>`, `<p>paragraph content</p>`, etc can b
 </div>
 ```
 
-# Terms and techinques
+## Terms and techinques
 
 `<!-- html comment. bordering spaces are optional but optimal -->`
 
