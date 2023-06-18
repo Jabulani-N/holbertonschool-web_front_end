@@ -49,5 +49,5 @@ content that is linked to "/"
 
 ## Task 20
 
-anchor links are not intended to work, as per assignment
+anchor links in task 20 are not intended to work, as per assignment
 
