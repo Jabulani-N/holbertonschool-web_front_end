@@ -51,3 +51,20 @@ content that is linked to "/"
 
 anchor links in task 20 are not intended to work, as per assignment
 
+- - -
+
+#### section names within main
+
+Hero section
+
+Services sectoin
+
+Works section
+
+About section
+
+Latest news section
+
+Testimonials section
+
+Contacat section
