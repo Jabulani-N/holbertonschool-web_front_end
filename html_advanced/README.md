@@ -30,7 +30,7 @@ items within a `<segment>items</segment>`, `<p>paragraph content</p>`, etc can b
 ```
 <a href="#services">
 
-content that is ancored to services
+content that is ancored to "services"
 
 </a>
 
