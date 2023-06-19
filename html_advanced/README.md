@@ -47,6 +47,38 @@ content that is linked to "/"
 
 `<span>content within a span</span>`
 
+(un)ordered lists.
+
+* unordered list is `<ul>`
+
+* ordered list is `<ol>`
+
+* containted list items are `<li>`
+
+example from [mdm webdocs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
+
+```
+
+<ul>
+
+    <li>Milk</li>
+
+    <li>Cheese
+
+        <ul>
+
+            <li>Blue cheese</li>
+
+            <li>Feta</li>
+
+        </ul>
+
+    </li>
+
+</ul>
+
+```
+
 ## Task 20
 
 anchor links in task 20 are not intended to work, as per assignment
