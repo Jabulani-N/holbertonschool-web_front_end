@@ -75,7 +75,7 @@ content that is linked to "/"
 
 * containted list items are `<li>`
 
-example from [mdm webdocs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
+Unordered list example from [mdm webdocs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
 
 ```
 
@@ -96,6 +96,27 @@ example from [mdm webdocs](https://developer.mozilla.org/en-US/docs/Web/HTML/Ele
     </li>
 
 </ul>
+
+```
+
+Defenition list example
+
+```
+
+<dl>
+    <dt>
+        I'm the item to be defined
+    </dt>
+    <dd>
+        I'm the definition of
+        the above dt.
+        Our line breaks don't show
+        in the actual output page.
+    </dd>
+    <dt>
+    I'm a dt item that has
+    no definition below.
+</dl>
 
 ```
 
