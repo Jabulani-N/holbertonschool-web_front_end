@@ -99,7 +99,7 @@ Unordered list example from [mdm webdocs](https://developer.mozilla.org/en-US/do
 
 ```
 
-Defenition list example
+[Defenition list](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dt) example
 
 ```
 
