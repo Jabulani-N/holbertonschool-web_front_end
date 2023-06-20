@@ -27,6 +27,26 @@ items within a `<segment>items</segment>`, `<p>paragraph content</p>`, etc can b
 
 `<!-- html comment. bordering spaces are optional but optimal -->`
 
+example paragraph
+
+```
+
+<p>
+
+  this content
+
+  will take up
+
+  only one line.
+
+  this rule applies to
+
+  lists as well.
+
+</p>
+
+```
+
 ```
 <a href="#services">
 
