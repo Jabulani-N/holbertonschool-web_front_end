@@ -148,4 +148,4 @@ Horizontal Rule is a rather fancy divider created via
 
 `<hr>`
 
-it does not duoournd anything, and autopopulates with the appropriate characters
+it does not surround anything, and autopopulates with the appropriate characters
