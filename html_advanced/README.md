@@ -120,6 +120,31 @@ Unordered list example from [mdm webdocs](https://developer.mozilla.org/en-US/do
 
 ```
 
+Blockquotes
+
+
+```
+
+<figure>
+
+    <blockquote cite="https://example.com">
+
+        <p>
+
+            This paragraph is part of the blockquote.
+
+            I cite the part in the cite section.
+
+        .</p>
+
+    </blockquote>
+
+    <figcaption>—Examplename ExampleLastname, <cite>example work being cited</cite></figcaption>
+
+</figure>
+
+```
+
 ## Task 20
 
 anchor links in task 20 are not intended to work, as per assignment
@@ -149,3 +174,33 @@ Horizontal Rule is a rather fancy divider created via
 `<hr>`
 
 it does not surround anything, and autopopulates with the appropriate characters
+
+## Task29 - Index
+
+Block Quotes
+
+[example from mdn web docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote)
+
+```
+
+<figure>
+
+    <blockquote cite="https://www.huxley.net/bnw/four.html">
+
+        <p>Words can be like X-rays, if you use them properly—they’ll go
+
+        through anything. You read and
+
+        you’re pierced.</p>
+
+    </blockquote>
+
+    <figcaption>—Aldous Huxley, <cite>Brave New World</cite></figcaption>
+
+</figure>
+
+```
+
+The figure is not necessary, and simply style the surrounded text
+
+in a pretty little borderless square area
