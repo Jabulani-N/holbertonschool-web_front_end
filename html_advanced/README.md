@@ -295,3 +295,5 @@ detail is the "rotating triangle dropdown"
                 </details>
 
 ```
+
+`<details open> I'm open by defualt! </details>` makes a details menu that start out open
