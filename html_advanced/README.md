@@ -274,3 +274,24 @@ example address
 ## Task33 - Table
 
 see this page for table formatting: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
+
+
+## Task34 - Details
+
+detail is the "rotating triangle dropdown"
+
+```
+
+<details>
+
+                    <summary>
+
+                        I'm the text next to the triangle. Click me top open/close
+
+                    </summary>
+
+                    I'm the detail text toggleable by the summary
+
+                </details>
+
+```
