@@ -304,3 +304,7 @@ detail is the "rotating triangle dropdown"
 image insertion
 
 ` <img src="I can be url or file address" alt="I'm the alt-text" width="160" height="40">` wiidth and height can be any numbers.
+
+## Task38 - video
+
+see https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video
