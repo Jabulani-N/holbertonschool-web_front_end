@@ -308,3 +308,15 @@ image insertion
 ## Task38 - video
 
 see https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video
+
+```
+
+            <video controls loop src="https://intranet-projects-files.s3.amazonaws.com/webstack/BigBuckBunny.mp4" poster="https://intranet-projects-files.s3.amazonaws.com/webstack/thumbnail.jpg">
+
+                this text shows if the video does not load
+
+            </video>
+
+```
+
+`poster` is what it shows as the video is loading
