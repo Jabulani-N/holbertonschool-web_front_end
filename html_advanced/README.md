@@ -236,3 +236,28 @@ in a pretty little borderless square area
 </p>
 
 ```
+
+
+## Task31 - Address and Latest News authors
+
+```
+
+<address>
+
+    <a href="mailto:jim@rock.com">
+
+        jim@rock.com
+
+    </a>
+
+    <br>
+
+    <a href="tel:+13115552368">
+
+        (311) 555-2368
+
+    </a>
+
+</addrerss>
+
+```
