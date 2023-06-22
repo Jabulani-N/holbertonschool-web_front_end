@@ -204,3 +204,35 @@ Block Quotes
 The figure is not necessary, and simply style the surrounded text
 
 in a pretty little borderless square area
+
+## Task30 - Inline Quotes
+
+[mdn web docs article](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/q)
+
+```
+
+<p>
+
+    I'm paragraph text,
+
+    <q>
+
+        and I'm
+
+        an inline quote within
+
+        the paragraph.
+
+        I follow the same rules as
+
+        the rest of paragraph text,
+
+        but since i'm within the 'q,'
+
+        I display with special formatting
+
+    </q>
+
+</p>
+
+```
