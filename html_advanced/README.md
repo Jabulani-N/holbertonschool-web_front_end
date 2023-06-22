@@ -270,3 +270,7 @@ example address
 [smalltext](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/small):
 
 `<small>this text will be small in html</small>`
+
+## Task33 - Table
+
+see this page for table formatting: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
