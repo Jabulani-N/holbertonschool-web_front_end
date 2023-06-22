@@ -267,3 +267,6 @@ example address
 </addrerss>
 
 ```
+[smalltext](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/small):
+
+`<small>this text will be small in html</small>`
