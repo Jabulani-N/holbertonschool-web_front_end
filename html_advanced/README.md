@@ -297,3 +297,10 @@ detail is the "rotating triangle dropdown"
 ```
 
 `<details open> I'm open by defualt! </details>` makes a details menu that start out open
+
+
+## Task35 -
+
+image insertion
+
+` <img src="I can be url or file address" alt="I'm the alt-text" width="160" height="40">` wiidth and height can be any numbers.
