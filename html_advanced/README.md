@@ -319,4 +319,21 @@ see https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video
 
 ```
 
-`poster` is what it shows as the video is loading
+* `poster` is what it shows as the video is loading
+
+* `loop` makes it loop once it reaches the end of the video
+
+audio is esentialy the same, but with `audio` instead of `video`
+
+## Task 39 - audio
+
+```
+
+            <audio controls src="https://intranet-projects-files.s3.amazonaws.com/webstack/TroubleChapter8_64kb.mp3">
+
+                I'm the alt-text. I display when the video won't load
+
+            </audio>
+
+```
+
